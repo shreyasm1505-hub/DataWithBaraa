@@ -23,23 +23,17 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
 ## 🎓 Other Platforms (Certifications)
-
 If you're looking to earn certifications, my courses are also available on these platforms:
-
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/BaraaUdemy)
 [![Skillshare](https://img.shields.io/badge/Skillshare-002333?style=for-the-badge&logo=skillshare&logoColor=white)](https://bit.ly/BaraaSkillshare)
 
 ## ⭐ Favorites
-
 Check out some of my favorite resources and tools:
-
 [![Books](https://img.shields.io/badge/Favorite%20Books-FFDD00?style=for-the-badge&logo=readme&logoColor=white)](https://kit.co/DataWithBaraa/my-favorite-books)
 [![Gear](https://img.shields.io/badge/My%20Gear-000000?style=for-the-badge&logo=tools&logoColor=white)](https://kit.co/DataWithBaraa/my-desktop-setup)
 
 ## 🔢 Most Used Languages
-
 Here’s a quick look at the languages I work with the most:
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithBaraa&layout=compact&theme=default)
 
 **Profile views**: ![View count](https://komarev.com/ghpvc/?username=DataWithBaraa)

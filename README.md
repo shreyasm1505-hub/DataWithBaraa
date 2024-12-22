@@ -24,6 +24,14 @@ All Courses and their materials are completely free, and all I ask is your suppo
 - ✅ **ChatGPT:** [Link](https://www.youtube.com/watch?v=LJLNfei4i-c)
 - [![Course Materials](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://datawithbaraa.substack.com/p/access-to-course-materials)
 
+- ✅ **Tableau:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/playlist?list=PL) | [Download Materials](#)
+- ✅ **Tableau Project:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/playlist?list=PL) | [Download Materials](#)
+- ✅ **SQL Basics:** [SQL Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL) | [Download Materials](#)
+- ✅ **SQL Advanced:** [How I'd Learn Advanced SQL and Why](https://www.youtube.com/playlist?list=PL) | [Download Materials](#)
+- ✅ **ChatGPT:** [ChatGPT Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL) | [Download Materials](#)
+
+
+
 ## 🎓 Other Platforms (Certifications)
 If you're looking to earn certifications, my courses are also available on these platforms:
 

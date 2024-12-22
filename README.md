@@ -16,16 +16,13 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 ## 📚 Free Courses
 
 All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
-### Courses
 - ✅ **Tableau Full Course:** [Link](https://www.youtube.com/watch?v=K3pXnbniUcM)
 - ✅ **Tableau Sales Project:** [Link](https://www.youtube.com/watch?v=dahrmqT5GD4)
 - ✅ **Tableau HR Project:** [Link](https://www.youtube.com/watch?v=UcGF09Awm4Y)
 - ✅ **SQL Basics:** [Link](https://www.youtube.com/watch?v=NTgejLheGeU)
 - ✅ **SQL Advanced:** [Link](https://www.youtube.com/watch?v=ELdz0dXzWGM&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)
 - ✅ **ChatGPT:** [Link](https://www.youtube.com/watch?v=LJLNfei4i-c)
-
-### Materials
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://datawithbaraa.substack.com/p/access-to-course-materials)
+- [![Course Materials](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://datawithbaraa.substack.com/p/access-to-course-materials)
 
 ## 🎓 Other Platforms (Certifications)
 If you're looking to earn certifications, my courses are also available on these platforms:

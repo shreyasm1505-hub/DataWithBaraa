@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Baraa Khatib Salkini**, also known as **DataWithBaraa**. I’m an IT professional and YouTuber with a mission to share the knowledge I’ve gained over the years and make working with data fun!
+I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and YouTuber with a mission to share the knowledge I’ve gained over the years and make working with data fun!
 
 💻 When I'm not working on data projects or creating content, you can find me exploring new technologies, building dashboards, and honing my skills in:
 

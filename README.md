@@ -15,18 +15,19 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ## 📚 Free Courses
 
-🎓 Unlock your potential with my free courses! All my course materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me!
+All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
+### Courses
+- ✅ **Tableau Full Course:** [Link](https://www.youtube.com/watch?v=K3pXnbniUcM)
+- ✅ **Tableau Sales Project:** [Link](https://www.youtube.com/watch?v=dahrmqT5GD4)
+- ✅ **Tableau HR Project:** [Link](https://www.youtube.com/watch?v=UcGF09Awm4Y)
+- ✅ **SQL Basics:** [Link](https://www.youtube.com/watch?v=NTgejLheGeU)
+- ✅ **SQL Advanced:** [Link](https://www.youtube.com/watch?v=ELdz0dXzWGM&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)
+- ✅ **ChatGPT:** [Link](https://www.youtube.com/watch?v=LJLNfei4i-c)
 
-- ✅ **Tableau Full Course:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/watch?v=K3pXnbniUcM)
-- ✅ **Tableau Sales Project:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/watch?v=dahrmqT5GD4)
-- ✅ **Tableau Project:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/playlist?list=PL)
-- ✅ **SQL Basics:** [SQL Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL)
-- ✅ **SQL Advanced:** [How I'd Learn Advanced SQL and Why](https://www.youtube.com/playlist?list=PL)
-- ✅ **ChatGPT:** [ChatGPT Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL)
-
+### Materials
+[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://datawithbaraa.substack.com/p/access-to-course-materials)
 
 ## 🎓 Other Platforms (Certifications)
-
 If you're looking to earn certifications, my courses are also available on these platforms:
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/BaraaUdemy)

@@ -17,12 +17,17 @@ I'm **Baraa Khatib Salkini**, also known as **DataWithBaraa**. I’m an IT profe
 
 ## 📚 Free Courses
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **Tableau**
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **Tableau Project**
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **SQL Basics**
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **SQL Advanced**
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **ChatGPT**
+- [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **Tableau**
+- [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **Tableau Project**
+- [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **SQL Basics**
+- [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **SQL Advanced**
+- [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL) **ChatGPT**
 
+- ✅ **Tableau:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/playlist?list=PL)  
+- ✅ **Tableau Project:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/playlist?list=PL)  
+- ✅ **SQL Basics:** [SQL Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL)  
+- ✅ **SQL Advanced:** [How I'd Learn Advanced SQL and Why](https://www.youtube.com/playlist?list=PL)  
+- ✅ **ChatGPT:** [ChatGPT Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL)
 ---
 
 ## 🎓 Other Platforms (Certifications)

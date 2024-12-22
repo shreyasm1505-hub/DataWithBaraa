@@ -40,6 +40,8 @@ Check out some of my favorite resources and tools:
 [![Books](https://img.shields.io/badge/Favorite%20Books-FFDD00?style=for-the-badge&logo=readme&logoColor=white)](https://kit.co/DataWithBaraa/my-favorite-books)
 [![Gear](https://img.shields.io/badge/My%20Gear-000000?style=for-the-badge&logo=tools&logoColor=white)](https://kit.co/DataWithBaraa/my-desktop-setup)
 
+---
+
 ## 🔢 Most Used Languages
 
 Here’s a quick look at the languages I work with the most:

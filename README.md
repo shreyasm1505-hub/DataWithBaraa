@@ -13,8 +13,6 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
 [![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
 
-## 📚 Free Courses
-
 All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
 - ✅ **Tableau Full Course:** [Course Link](https://www.youtube.com/watch?v=K3pXnbniUcM) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
 - ✅ **Tableau Sales Project:** [Course Link](https://www.youtube.com/watch?v=dahrmqT5GD4) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
@@ -23,13 +21,10 @@ All Courses and their materials are completely free, and all I ask is your suppo
 - ✅ **SQL Advanced:** [Course Link](https://www.youtube.com/watch?v=ELdz0dXzWGM&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
 - ✅ **ChatGPT:** [Course Link](https://www.youtube.com/watch?v=LJLNfei4i-c) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
 
-## 🎓 Other Platforms (Certifications)
 If you're looking to earn certifications, my courses are also available on these platforms:
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/BaraaUdemy)
 [![Skillshare](https://img.shields.io/badge/Skillshare-002333?style=for-the-badge&logo=skillshare&logoColor=white)](https://bit.ly/BaraaSkillshare)
-
-## ⭐ Favorites
 
 Check out some of my favorite resources and tools:
 

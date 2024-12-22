@@ -2,21 +2,22 @@
 
 I'm **Baraa Khatib Salkini**, also known as **DataWithBaraa**. I’m an IT professional and YouTuber with a mission to share the knowledge I’ve gained over the years and make working with data fun!
 
-💻 When I'm not working on data projects or creating content, you can find me exploring new technologies, building dashboards, and honing my skills in:
-
-- ✨ **Machine Learning**
-- ✨ **Data Visualization**
-- ✨ **Data Engineering**
-
-I also enjoy working with various tools and technologies. My current favorites are:
-
-- ❤️ **SQL / PostgreSQL / MySQL**
-- ❤️ **Python**
-- ❤️ **Tableau**
-
 ---
 
 ## ☕ Stay Connected
+---
+
+## ☕ Stay Connected
+
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)  
+- [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)  
+- [![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)  
+- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)  
+- [![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)  
+
+---
+
 
 - 🔗 **Subscribe:** [http://bit.ly/3GiCVUE](http://bit.ly/3GiCVUE)  
 - 🔗 **LinkedIn:** [/baraa-khatib-salkini](https://linkedin.com/in/baraa-khatib-salkini)  

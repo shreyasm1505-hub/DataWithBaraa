@@ -16,12 +16,12 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 ## 📚 Free Courses
 
 All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
-- ✅ **Tableau Full Course:** [Course Link](https://www.youtube.com/watch?v=K3pXnbniUcM)| [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
-- ✅ **Tableau Sales Project:** [Link](https://www.youtube.com/watch?v=dahrmqT5GD4) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
-- ✅ **Tableau HR Project:** [Link](https://www.youtube.com/watch?v=UcGF09Awm4Y) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
-- ✅ **SQL Basics:** [Link](https://www.youtube.com/watch?v=NTgejLheGeU) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
-- ✅ **SQL Advanced:** [Link](https://www.youtube.com/watch?v=ELdz0dXzWGM&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
-- ✅ **ChatGPT:** [Link](https://www.youtube.com/watch?v=LJLNfei4i-c) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
+- ✅ **Tableau Full Course:** [Course Link](https://www.youtube.com/watch?v=K3pXnbniUcM) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
+- ✅ **Tableau Sales Project:** [Course Link](https://www.youtube.com/watch?v=dahrmqT5GD4) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
+- ✅ **Tableau HR Project:** [Course Link](https://www.youtube.com/watch?v=UcGF09Awm4Y) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
+- ✅ **SQL Basics:** [Course Link](https://www.youtube.com/watch?v=NTgejLheGeU) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
+- ✅ **SQL Advanced:** [Course Link](https://www.youtube.com/watch?v=ELdz0dXzWGM&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
+- ✅ **ChatGPT:** [Course Link](https://www.youtube.com/watch?v=LJLNfei4i-c) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
 
 ## 🎓 Other Platforms (Certifications)
 If you're looking to earn certifications, my courses are also available on these platforms:

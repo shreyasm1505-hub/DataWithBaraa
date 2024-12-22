@@ -12,10 +12,7 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
 [![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
-<br/>
-
 ## 📚 Free Courses
-
 🎓 Unlock your potential with my free courses! All my course materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me!
 
 - ✅ **Tableau:** [Complete HR Tableau Project End-to-End](https://www.youtube.com/playlist?list=PL)
@@ -23,7 +20,7 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 - ✅ **SQL Basics:** [SQL Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL)
 - ✅ **SQL Advanced:** [How I'd Learn Advanced SQL and Why](https://www.youtube.com/playlist?list=PL)
 - ✅ **ChatGPT:** [ChatGPT Tutorial for Beginners [Ultimate Guide]](https://www.youtube.com/playlist?list=PL)
-<br/>
+
 
 ## 🎓 Other Platforms (Certifications)
 

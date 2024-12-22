@@ -1,18 +1,6 @@
 # Hello! 👋
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **DataWithBaraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-
-💻 When I'm not working on exciting data projects or creating content, I love exploring new technologies, building dashboards, and expanding my expertise in:
-
-- ✨ **Machine Learning**
-- ✨ **Data Visualization**
-- ✨ **Data Engineering**
-
-I also enjoy using a variety of tools and technologies. Some of my current favorites are:
-
-- ❤️ **SQL / PostgreSQL / MySQL**
-- ❤️ **Python**
-- ❤️ **Tableau**
+Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
 
 ## ☕ Stay Connected
 

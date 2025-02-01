@@ -21,10 +21,8 @@ All Courses and their materials are completely free, and all I ask is your suppo
 - ✅ **SQL Advanced:** [Course Link](https://www.youtube.com/watch?v=ELdz0dXzWGM&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
 - ✅ **ChatGPT:** [Course Link](https://www.youtube.com/watch?v=LJLNfei4i-c) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
 
-If you're looking to earn certifications, my courses are also available on these platforms:
-
+If you're looking to earn certifications, my courses are also available on Udemy (only if you need certification)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/BaraaUdemy)
-[![Skillshare](https://img.shields.io/badge/Skillshare-002333?style=for-the-badge&logo=skillshare&logoColor=white)](https://bit.ly/BaraaSkillshare)
 
 Check out some of my favorite resources and tools:
 

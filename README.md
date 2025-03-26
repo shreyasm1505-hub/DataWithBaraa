@@ -25,12 +25,12 @@ All Courses and their materials are completely free, and all I ask is your suppo
 - ✅ **Tableau HR Project:** [Course Link](https://www.youtube.com/watch?v=UcGF09Awm4Y) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials) | [Public](https://public.tableau.com/app/profile/baraa.salkini/vizzes)
 - ✅ **ChatGPT:** [Course Link](https://www.youtube.com/watch?v=LJLNfei4i-c) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
 
+If you're looking to earn certifications, my courses are also available on Udemy *(only if you need certification)*.
+| **SQL Certification**                                                                                                               | **Tableau Certification**                                                                                                                    |
+|:-----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+| [![Udemy SQL](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/4hH947P) | [![Udemy Tableau](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/3xFiDDk) |
 
-If you're looking to earn certifications, my courses are also available on Udemy (only if you need certification)
-
-[![Udemy SQL](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/4hH947P)
-[![Udemy Tableau](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/3xFiDDk)
-
+  
 Check out some of my favorite resources and tools:
 
 [![Books](https://img.shields.io/badge/Favorite%20Books-FFDD00?style=for-the-badge&logo=readme&logoColor=white)](https://kit.co/DataWithBaraa/my-favorite-books)

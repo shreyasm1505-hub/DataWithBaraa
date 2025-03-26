@@ -28,7 +28,8 @@ All Courses and their materials are completely free, and all I ask is your suppo
 
 If you're looking to earn certifications, my courses are also available on Udemy (only if you need certification)
 
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/BaraaUdemy)
+[![Udemy SQL](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/4hH947P)
+[![Udemy Tableau](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://bit.ly/3xFiDDk)
 
 Check out some of my favorite resources and tools:
 

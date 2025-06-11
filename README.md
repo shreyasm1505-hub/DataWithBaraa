@@ -39,10 +39,17 @@ Check out some of my favorite resources and tools:
 
 ---
 
-## 🔢 Most Used Languages
+## 📈 Profile Stats
 
-Here’s a quick look at the languages I work with the most:
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=datawithbaraa&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithBaraa&layout=compact&theme=default)
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithbaraa&layout=compact&theme=dark" alt="Top Languages" />
 
-**Profile views**: ![View count](https://komarev.com/ghpvc/?username=DataWithBaraa)
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=DataWithBaraa&style=for-the-badge&color=blue)](https://github.com/DataWithBaraa)
+
+
+
+

@@ -34,8 +34,7 @@ If you're looking to earn certifications, my courses are also available on Udemy
   
 Check out some of my favorite resources and tools:
 
-[![Books](https://img.shields.io/badge/Favorite%20Books-FFDD00?style=for-the-badge&logo=readme&logoColor=white)](https://kit.co/DataWithBaraa/my-favorite-books)
-[![Gear](https://img.shields.io/badge/My%20Gear-000000?style=for-the-badge&logo=tools&logoColor=white)](https://kit.co/DataWithBaraa/my-desktop-setup)
+[![Books & Gear](https://thankful-pangolin-2ca.notion.site/My-Favorite-Books-Gear-Apps-210d041640ef80d0b266e4095f1c4af6)
 
 ---
 

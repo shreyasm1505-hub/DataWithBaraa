@@ -34,7 +34,8 @@ If you're looking to earn certifications, my courses are also available on Udemy
   
 Check out some of my favorite resources and tools:
 
-[![Books & Gear](https://thankful-pangolin-2ca.notion.site/My-Favorite-Books-Gear-Apps-210d041640ef80d0b266e4095f1c4af6)
+[![Books & Gear](https://img.shields.io/badge/Books_&_Gear-000000?style=for-the-badge&logo=notion&logoColor=white)](https://thankful-pangolin-2ca.notion.site/My-Favorite-Books-Gear-Apps-210d041640ef80d0b266e4095f1c4af6)
+
 
 ---
 
